@@ -1,0 +1,3 @@
+# hzq
+
+Initialized Git repository.

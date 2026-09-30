@@ -1,9 +1,0 @@
-# Operating-system files
-Thumbs.db
-Desktop.ini
-.DS_Store
-
-# Editor-local settings
-.vscode/
-.idea/
-*.code-workspace
